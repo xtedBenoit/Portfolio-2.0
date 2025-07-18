@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Contact",
+    "hire_me": "Engagez-moi"
+  },
+  "hero": {
+    "greeting": "Je suis",
+    "role": "Développeur Full Stack",
+    "specialties": [
+      "Développeur Mobile",
+      "Développeur Web",
+      "Développeur Front-End",
+      "Développeur Back-End",
+      "Développeur d'Applications",
+      "Administrateur de Base de Données",
+      "Gestion Réseau",
+      "Intégration d'API",
+      "Optimisation de Système"
+    ],
+    "download_cv": "Télécharger CV",
+    "watch_video": "Regarder la vidéo"
+  },
+  "about": {
+    "title": "À propos",
+    "subtitle": "À propos de moi",
+    "description": "Développeur Full Stack passionné spécialisé dans la création d'applications web et mobiles innovantes. Expert en technologies front-end et back-end avec une solide expérience dans le développement de solutions performantes et évolutives.",
+    "personal_info": {
+      "name": "Nom",
+      "birthday": "Date de naissance",
+      "degree": "Diplôme",
+      "experience": "Expérience",
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "freelance": "Freelance"
+    },
+    "status": {
+      "available": "Disponible",
+      "unavailable": "Non disponible"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Découvrez mes articles sur le développement et la technologie",
+    "read_more": "Lire la suite",
+    "back_to_blog": "Retour aux articles",
+    "share": "Partager",
+    "categories": {
+      "web": "Web",
+      "mobile": "Mobile",
+      "backend": "Backend",
+      "cloud": "Cloud",
+      "web3": "Web3"
+    }
+  },
+  "hire_me": {
+    "title": "Engagez-moi pour votre prochain projet",
+    "description": "Je suis disponible pour des projets freelance et des collaborations à long terme",
+    "contact_me": "Me contacter",
+    "view_work": "Voir mes travaux",
+    "expertise": {
+      "mobile": {
+        "title": "Développement Mobile",
+        "description": "Applications natives et cross-platform pour iOS et Android"
+      },
+      "web": {
+        "title": "Développement Web",
+        "description": "Sites web modernes et réactifs avec les dernières technologies"
+      },
+      "backend": {
+        "title": "Développement Backend",
+        "description": "APIs robustes et architecture de microservices évolutive"
+      }
+    }
+  },
+  "download": {
+    "cv": "Télécharger CV",
+    "downloading": "Téléchargement..."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Contact",
+    "hire_me": "Hire Me"
+  },
+  "hero": {
+    "greeting": "I am",
+    "role": "Full Stack Developer",
+    "specialties": [
+      "Mobile Developer",
+      "Web Developer",
+      "Front-End Developer",
+      "Back-End Developer",
+      "Application Developer",
+      "Database Administrator",
+      "Network Management",
+      "API Integration",
+      "System Optimization"
+    ],
+    "download_cv": "Download CV",
+    "watch_video": "Watch Video"
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "About Me",
+    "description": "Passionate Full Stack Developer specialized in creating innovative web and mobile applications. Expert in front-end and back-end technologies with solid experience in developing high-performance and scalable solutions.",
+    "personal_info": {
+      "name": "Name",
+      "birthday": "Birthday",
+      "degree": "Degree",
+      "experience": "Experience",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "freelance": "Freelance"
+    },
+    "status": {
+      "available": "Available",
+      "unavailable": "Unavailable"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Discover my articles about development and technology",
+    "read_more": "Read More",
+    "back_to_blog": "Back to Articles",
+    "share": "Share",
+    "categories": {
+      "web": "Web",
+      "mobile": "Mobile",
+      "backend": "Backend",
+      "cloud": "Cloud",
+      "web3": "Web3"
+    }
+  },
+  "hire_me": {
+    "title": "Hire Me for Your Next Project",
+    "description": "I am available for freelance projects and long-term collaborations",
+    "contact_me": "Contact Me",
+    "view_work": "View My Work",
+    "expertise": {
+      "mobile": {
+        "title": "Mobile Development",
+        "description": "Native and cross-platform applications for iOS and Android"
+      },
+      "web": {
+        "title": "Web Development",
+        "description": "Modern and responsive websites with the latest technologies"
+      },
+      "backend": {
+        "title": "Backend Development",
+        "description": "Robust APIs and scalable microservices architecture"
+      }
+    }
+  },
+  "download": {
+    "cv": "Download CV",
+    "downloading": "Downloading..."
+  }
+}
